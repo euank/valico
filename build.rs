@@ -44,6 +44,7 @@ fn main() {
         .entry("definitions")
         .entry("$schema")
         .entry("id")
+        .entry("title")
         .entry("default")
         .entry("description")
         .entry("format")
